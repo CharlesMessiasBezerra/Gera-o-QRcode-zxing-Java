@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Java" title="Java" src=".github/Java.png" />
+    <img alt="Java" title="Java" src=".github/java.png" />
 </h1>
 
 <p align="center">
